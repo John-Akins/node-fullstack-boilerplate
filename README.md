@@ -1,2 +1,2 @@
 # node-fullstack-boilerplate
-Fullstack nodejs app noilerplate. Static files and API included
+Fullstack nodejs app boilerplate. Static files and API included
